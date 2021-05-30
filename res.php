@@ -339,6 +339,11 @@ if ($result->num_rows > 0) {
 	}
 	/*Annimated Progress Bar End*/
 
+	.anychart-credits-text,.anychart-credits-logo
+	{
+		display: none;
+	}
+	
 </style>
 <body>
 
